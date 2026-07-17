@@ -32,6 +32,31 @@ My background combines software development, enterprise cybersecurity, and audit
 - Internal Controls
 - Compliance
 
+- ## 🛠️ Technologies & Tools
+
+### 💻 Software Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🔐 Cybersecurity
+
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![NIST Cybersecurity Framework](https://img.shields.io/badge/NIST_CSF-005EA2?style=for-the-badge)
+
+### 📊 Audit
+
+![IT Audit](https://img.shields.io/badge/IT_Audit-0A66C2?style=for-the-badge)
+![Internal Audit](https://img.shields.io/badge/Internal_Audit-4CAF50?style=for-the-badge)
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-FF9800?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-673AB7?style=for-the-badge)
+
 ---
 
 ## 🚀 Current Focus
