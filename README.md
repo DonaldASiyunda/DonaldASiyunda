@@ -96,6 +96,6 @@ Thanks for visiting my profile! Feel free to explore my repositories and follow 
 
 ## 📈 GitHub Statistics
 
-![Donald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonaldASiyunda&show_icons=true&theme=github_dark)
+![Donald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonaldASiyunda&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldASiyunda&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldASiyunda&layout=compact&theme=tokyonight&cache_seconds=1800)
