@@ -91,3 +91,11 @@ My background combines software development, enterprise cybersecurity, and audit
 GitHub: **github.com/DonaldASiyunda**
 
 Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building projects and learning new technologies.
+
+---
+
+## 📈 GitHub Statistics
+
+![Donald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DonaldASiyunda&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaldASiyunda&layout=compact&theme=github_dark)
