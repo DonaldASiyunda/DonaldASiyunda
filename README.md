@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Donald A. Siyunda 👋
 
-<!--
-**DonaldASiyunda/DonaldASiyunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineer passionate about building practical software solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing applications, automating tasks, and continuously learning new technologies to improve my skills.
+
+---
+
+## 🚀 Technologies & Tools
+
+- Python
+- Java
+- JavaScript
+- SQL
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python
+- Software Architecture
+- Cloud Computing
+
+---
+
+## 📌 Current Projects
+
+- Smart Expense Tracker
+- Inventory Management System
+- Portfolio Projects
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: github.com/DonaldASiyunda
